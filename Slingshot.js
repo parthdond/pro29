@@ -15,10 +15,10 @@ class Slingshot{
 
     }
 
-    attach(body)  {
+   /* attach(body)  {
         this.sling.bodyA = body;
 
-    }
+    }*/
     display(){
         if(this.sling.bodyA)  {
 
