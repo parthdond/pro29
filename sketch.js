@@ -104,9 +104,9 @@ function mouseReleased()  {
 
 }
 
-function keyPressed()  {
+/*function keyPressed()  {
   if(keyCode===32)  {
     Slingshot.attach(polygon.body)
   }
 
-}
+}*/
